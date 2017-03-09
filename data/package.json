@@ -1,0 +1,24 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse_cost_csv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "parse": "./node_modules/.bin/grunt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-es2015-node": "^6.1.1",
+    "csv-parse": "^1.1.7",
+    "grunt": "^1.0.1",
+    "grunt-shell": "^2.1.0",
+    "lodash": "^4.16.0"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-es2015": "^6.14.0"
+  }
+}

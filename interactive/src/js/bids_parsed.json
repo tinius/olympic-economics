@@ -1,0 +1,1168 @@
+[
+  {
+    "year": 2022,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Beijing",
+        "country": "China"
+      },
+      {
+        "city": "Almaty",
+        "country": "Kazakhstan"
+      },
+      {
+        "city": "Oslo",
+        "country": "Norway"
+      },
+      {
+        "city": "Krakow",
+        "country": "Poland"
+      },
+      {
+        "city": "Lviv",
+        "country": "Ukraine"
+      },
+      {
+        "city": "Stockholm",
+        "country": "Sweden"
+      }
+    ],
+    "host": {
+      "city": "Beijing",
+      "country": "China"
+    }
+  },
+  {
+    "year": 2020,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Tokyo",
+        "country": "Japan"
+      },
+      {
+        "city": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "city": "Madrid",
+        "country": "Spain"
+      },
+      {
+        "city": "Baku",
+        "country": "Azerbaijan"
+      },
+      {
+        "city": "Doha",
+        "country": "Qatar"
+      },
+      {
+        "city": "Rome",
+        "country": "Italy"
+      }
+    ],
+    "host": {
+      "city": "Tokyo",
+      "country": "Japan"
+    }
+  },
+  {
+    "year": 2018,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "PyeongChang",
+        "country": "Korea (Republic of)"
+      },
+      {
+        "city": "Munich",
+        "country": "Germany"
+      },
+      {
+        "city": "Annecy",
+        "country": "France"
+      }
+    ],
+    "host": {
+      "city": "PyeongChang",
+      "country": "Korea (Republic of)"
+    }
+  },
+  {
+    "year": 2016,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "city": "Madrid",
+        "country": "Spain"
+      },
+      {
+        "city": "Tokyo",
+        "country": "Japan"
+      },
+      {
+        "city": "Chicago",
+        "country": "United States"
+      },
+      {
+        "city": "Baku",
+        "country": "Azerbaijan"
+      },
+      {
+        "city": "Doha",
+        "country": "Qatar"
+      },
+      {
+        "city": "Prague",
+        "country": "Czech Republic"
+      }
+    ],
+    "host": {
+      "city": "Rio de Janeiro",
+      "country": "Brazil"
+    }
+  },
+  {
+    "year": 2014,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Sochi",
+        "country": "Russian Federation"
+      },
+      {
+        "city": "PyeongChang",
+        "country": "Korea (Republic of)"
+      },
+      {
+        "city": "Salzburg",
+        "country": "Austria"
+      },
+      {
+        "city": "Almaty",
+        "country": "Kazakhstan"
+      },
+      {
+        "city": "Borjomi",
+        "country": "Georgia"
+      },
+      {
+        "city": "Jaca",
+        "country": "Spain"
+      },
+      {
+        "city": "Sofia",
+        "country": "Bulgaria"
+      }
+    ],
+    "host": {
+      "city": "Sochi",
+      "country": "Russian Federation"
+    }
+  },
+  {
+    "year": 2012,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "London",
+        "country": "United Kingdom"
+      },
+      {
+        "city": "Paris",
+        "country": "France"
+      },
+      {
+        "city": "Madrid",
+        "country": "Spain"
+      },
+      {
+        "city": "New York",
+        "country": "United States"
+      },
+      {
+        "city": "Moscow",
+        "country": "Russian Federation"
+      },
+      {
+        "city": "Leipzig",
+        "country": "Germany"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "city": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "city": "Havana",
+        "country": "Cuba"
+      }
+    ],
+    "host": {
+      "city": "London",
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "year": 2010,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Vancouver",
+        "country": "Canada"
+      },
+      {
+        "city": "PyeongChang",
+        "country": "Korea (Republic of)"
+      },
+      {
+        "city": "Salzburg",
+        "country": "Austria"
+      },
+      {
+        "city": "Andorra la Vella",
+        "country": "Andorra"
+      },
+      {
+        "city": "Berne",
+        "country": "Switzerland"
+      },
+      {
+        "city": "Harbin",
+        "country": "China"
+      },
+      {
+        "city": "Jaca",
+        "country": "Spain"
+      },
+      {
+        "city": "Sarajevo",
+        "country": "Bosnia and Herzegovina"
+      }
+    ],
+    "host": {
+      "city": "Vancouver",
+      "country": "Canada"
+    }
+  },
+  {
+    "year": 2008,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Beijing",
+        "country": "China"
+      },
+      {
+        "city": "Toronto",
+        "country": "Canada"
+      },
+      {
+        "city": "Paris",
+        "country": "France"
+      },
+      {
+        "city": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "city": "Osaka",
+        "country": "Japan"
+      },
+      {
+        "city": "Bangkok",
+        "country": "Thailand"
+      },
+      {
+        "city": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "city": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "city": "Seville",
+        "country": "Spain"
+      }
+    ],
+    "host": {
+      "city": "Beijing",
+      "country": "China"
+    }
+  },
+  {
+    "year": 2006,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Turin",
+        "country": "Italy"
+      },
+      {
+        "city": "Sion",
+        "country": "Switzerland"
+      },
+      {
+        "city": "Helsinki",
+        "country": "Finland"
+      },
+      {
+        "city": "Klagenfurt",
+        "country": "Austria"
+      },
+      {
+        "city": "Poprad-Tatry",
+        "country": "Slovakia"
+      },
+      {
+        "city": "Zakopane",
+        "country": "Poland"
+      }
+    ],
+    "host": {
+      "city": "Turin",
+      "country": "Italy"
+    }
+  },
+  {
+    "year": 2004,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Athens",
+        "country": "Greece"
+      },
+      {
+        "city": "Rome",
+        "country": "Italy"
+      },
+      {
+        "city": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "city": "Stockholm",
+        "country": "Sweden"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "city": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "city": "Lille",
+        "country": "France"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "city": "St. Petersburg",
+        "country": "Russian Federation"
+      },
+      {
+        "city": "San Juan",
+        "country": "United States"
+      },
+      {
+        "city": "Seville",
+        "country": "Spain"
+      }
+    ],
+    "host": {
+      "city": "Athens",
+      "country": "Greece"
+    }
+  },
+  {
+    "year": 2002,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Salt Lake City",
+        "country": "United States"
+      },
+      {
+        "city": "Ostersund",
+        "country": "Sweden"
+      },
+      {
+        "city": "Sion",
+        "country": "Switzerland"
+      },
+      {
+        "city": "Quebec City",
+        "country": "Canada"
+      },
+      {
+        "city": "Graz",
+        "country": "Austria"
+      },
+      {
+        "city": "Jaca",
+        "country": "Spain"
+      },
+      {
+        "city": "Poprad-Tatry",
+        "country": "Slovakia"
+      },
+      {
+        "city": "Sochi",
+        "country": "Russian Federation"
+      },
+      {
+        "city": "Tarvisio",
+        "country": "Italy"
+      }
+    ],
+    "host": {
+      "city": "Salt Lake City",
+      "country": "United States"
+    }
+  },
+  {
+    "year": 2000,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Sydney",
+        "country": "Australia"
+      },
+      {
+        "city": "Beijing",
+        "country": "China"
+      },
+      {
+        "city": "Manchester",
+        "country": "United Kingdom"
+      },
+      {
+        "city": "Berlin",
+        "country": "Germany"
+      },
+      {
+        "city": "Istanbul",
+        "country": "Turkey"
+      }
+    ],
+    "host": {
+      "city": "Sydney",
+      "country": "Australia"
+    }
+  },
+  {
+    "year": 1998,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Nagano",
+        "country": "Japan"
+      },
+      {
+        "city": "Salt Lake City",
+        "country": "United States"
+      },
+      {
+        "city": "Ostersund",
+        "country": "Sweden"
+      },
+      {
+        "city": "Jaca",
+        "country": "Spain"
+      },
+      {
+        "city": "Aosta",
+        "country": "Italy"
+      }
+    ],
+    "host": {
+      "city": "Nagano",
+      "country": "Japan"
+    }
+  },
+  {
+    "year": 1996,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Atlanta",
+        "country": "United States"
+      },
+      {
+        "city": "Athens",
+        "country": "Greece"
+      },
+      {
+        "city": "Toronto",
+        "country": "Canada"
+      },
+      {
+        "city": "Melbourne",
+        "country": "Australia"
+      },
+      {
+        "city": "Manchester",
+        "country": "United Kingdom"
+      },
+      {
+        "city": "Belgrade",
+        "country": "Yugoslavia"
+      }
+    ],
+    "host": {
+      "city": "Atlanta",
+      "country": "United States"
+    }
+  },
+  {
+    "year": 1994,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Lillehammer",
+        "country": "Norway"
+      },
+      {
+        "city": "Ostersund",
+        "country": "Sweden"
+      },
+      {
+        "city": "Anchorage",
+        "country": "United States"
+      },
+      {
+        "city": "Sofia",
+        "country": "Bulgaria"
+      }
+    ],
+    "host": {
+      "city": "Lillehammer",
+      "country": "Norway"
+    }
+  },
+  {
+    "year": 1992,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Barcelona",
+        "country": "Spain"
+      },
+      {
+        "city": "Paris",
+        "country": "France"
+      },
+      {
+        "city": "Belgrade",
+        "country": "Yugoslavia"
+      },
+      {
+        "city": "Brisbane",
+        "country": "Australia"
+      },
+      {
+        "city": "Birmingham",
+        "country": "United Kingdom"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "Netherlands"
+      }
+    ],
+    "host": {
+      "city": "Barcelona",
+      "country": "Spain"
+    }
+  },
+  {
+    "year": 1992,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Albertville",
+        "country": "France"
+      },
+      {
+        "city": "Sofia",
+        "country": "Bulgaria"
+      },
+      {
+        "city": "Falun",
+        "country": "Sweden"
+      },
+      {
+        "city": "Lillehammer",
+        "country": "Norway"
+      },
+      {
+        "city": "Cortina d’Ampezzo",
+        "country": "Italy"
+      },
+      {
+        "city": "Anchorage",
+        "country": "United States"
+      },
+      {
+        "city": "Berchtesgaden",
+        "country": "West Germany"
+      }
+    ],
+    "host": {
+      "city": "Albertville",
+      "country": "France"
+    }
+  },
+  {
+    "year": 1988,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Seoul",
+        "country": "Korea (Republic of)"
+      },
+      {
+        "city": "Nagoya",
+        "country": "Japan"
+      }
+    ],
+    "host": {
+      "city": "Seoul",
+      "country": "Korea (Republic of)"
+    }
+  },
+  {
+    "year": 1988,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Calgary",
+        "country": "Canada"
+      },
+      {
+        "city": "Falun",
+        "country": "Sweden"
+      },
+      {
+        "city": "Cortina d’Ampezzo",
+        "country": "Italy"
+      }
+    ],
+    "host": {
+      "city": "Calgary",
+      "country": "Canada"
+    }
+  },
+  {
+    "year": 1984,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Los Angeles",
+        "country": "United States"
+      },
+      {
+        "city": "",
+        "country": ""
+      }
+    ],
+    "host": {
+      "city": "Los Angeles",
+      "country": "United States"
+    }
+  },
+  {
+    "year": 1984,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Sarajevo",
+        "country": "Yugoslavia"
+      },
+      {
+        "city": "Sapporo",
+        "country": "Japan"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "Sweden"
+      }
+    ],
+    "host": {
+      "city": "Sarajevo",
+      "country": "Yugoslavia"
+    }
+  },
+  {
+    "year": 1980,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Moscow",
+        "country": "USSR"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "United States"
+      }
+    ],
+    "host": {
+      "city": "Moscow",
+      "country": "USSR"
+    }
+  },
+  {
+    "year": 1980,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Lake Placid",
+        "country": "United States"
+      }
+    ],
+    "host": {
+      "city": "Lake Placid",
+      "country": "United States"
+    }
+  },
+  {
+    "year": 1976,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Montreal",
+        "country": "Canada"
+      },
+      {
+        "city": "Moscow",
+        "country": "USSR"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "United States"
+      }
+    ],
+    "host": {
+      "city": "Montreal",
+      "country": "Canada"
+    }
+  },
+  {
+    "year": 1976,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Denver",
+        "country": "Austria"
+      },
+      {
+        "city": "Sion",
+        "country": "Switzerland"
+      },
+      {
+        "city": "Tampere",
+        "country": "Finland"
+      },
+      {
+        "city": "Vancouver-Garibaldi",
+        "country": "Canada"
+      }
+    ],
+    "host": {
+      "city": "Denver",
+      "country": "Austria"
+    }
+  },
+  {
+    "year": 1972,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Munich",
+        "country": "Germany"
+      },
+      {
+        "city": "Detroit",
+        "country": "United States"
+      },
+      {
+        "city": "Madrid",
+        "country": "Spain"
+      },
+      {
+        "city": "Montreal",
+        "country": "Canada"
+      }
+    ],
+    "host": {
+      "city": "Munich",
+      "country": "Germany"
+    }
+  },
+  {
+    "year": 1972,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Sapporo",
+        "country": "Japan"
+      },
+      {
+        "city": "Banff",
+        "country": "Canada"
+      },
+      {
+        "city": "Lahti",
+        "country": "Finland"
+      },
+      {
+        "city": "Salt Lake City",
+        "country": "United States"
+      }
+    ],
+    "host": {
+      "city": "Sapporo",
+      "country": "Japan"
+    }
+  },
+  {
+    "year": 1968,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Grenoble",
+        "country": "France"
+      },
+      {
+        "city": "Calgary",
+        "country": "Canada"
+      },
+      {
+        "city": "Lahti",
+        "country": "Finland"
+      },
+      {
+        "city": "Sapporo",
+        "country": "Japan"
+      },
+      {
+        "city": "Oslo",
+        "country": "Norway"
+      },
+      {
+        "city": "Lake Placid",
+        "country": "United States"
+      }
+    ],
+    "host": {
+      "city": "Grenoble",
+      "country": "France"
+    }
+  },
+  {
+    "year": 1968,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "city": "Detroit",
+        "country": "United States"
+      },
+      {
+        "city": "Lyon",
+        "country": "France"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "Argentina"
+      }
+    ],
+    "host": {
+      "city": "Mexico City",
+      "country": "Mexico"
+    }
+  },
+  {
+    "year": 1964,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Tokyo",
+        "country": "Japan"
+      },
+      {
+        "city": "Detroit",
+        "country": "United States"
+      },
+      {
+        "city": "Vienna",
+        "country": "Austria"
+      },
+      {
+        "city": "Brussels",
+        "country": "Belgium"
+      }
+    ],
+    "host": {
+      "city": "Tokyo",
+      "country": "Japan"
+    }
+  },
+  {
+    "year": 1964,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Innsbruck",
+        "country": "Austria"
+      },
+      {
+        "city": "Calgary",
+        "country": "Canada"
+      },
+      {
+        "city": "Lahti",
+        "country": "Finland"
+      }
+    ],
+    "host": {
+      "city": "Innsbruck",
+      "country": "Austria"
+    }
+  },
+  {
+    "year": 1960,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Rome",
+        "country": "Italy"
+      },
+      {
+        "city": "Lausanne",
+        "country": "Switzerland"
+      },
+      {
+        "city": "Brussels",
+        "country": "Belgium"
+      },
+      {
+        "city": "Budapest",
+        "country": "Hungary"
+      },
+      {
+        "city": "Detroit",
+        "country": "United States"
+      },
+      {
+        "city": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "city": "Tokyo",
+        "country": "Japan"
+      }
+    ],
+    "host": {
+      "city": "Rome",
+      "country": "Italy"
+    }
+  },
+  {
+    "year": 1960,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Squaw Valley",
+        "country": "United States"
+      },
+      {
+        "city": "Innsbruck",
+        "country": "Austria"
+      },
+      {
+        "city": "St. Moritz",
+        "country": "Switzerland"
+      },
+      {
+        "city": "Garmisch-Partenkirchen",
+        "country": "Germany"
+      },
+      {
+        "city": "Karachi",
+        "country": "Pakistan"
+      }
+    ],
+    "host": {
+      "city": "Squaw Valley",
+      "country": "United States"
+    }
+  },
+  {
+    "year": 1956,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Melbourne",
+        "country": "Australia"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "city": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "city": "Chicago",
+        "country": "United States"
+      },
+      {
+        "city": "Detroit",
+        "country": "United States"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "United States"
+      },
+      {
+        "city": "Minneapolis",
+        "country": "United States"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "United States"
+      },
+      {
+        "city": "San Francisco",
+        "country": "United States"
+      },
+      {
+        "city": "Montreal",
+        "country": "Canada"
+      }
+    ],
+    "host": {
+      "city": "Melbourne",
+      "country": "Australia"
+    }
+  },
+  {
+    "year": 1956,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Cortina d’Ampezzo",
+        "country": "Italy"
+      },
+      {
+        "city": "Colorado Springs",
+        "country": "United States"
+      },
+      {
+        "city": "Lake Placid",
+        "country": "United States"
+      },
+      {
+        "city": "Montreal",
+        "country": "Canada"
+      }
+    ],
+    "host": {
+      "city": "Cortina d’Ampezzo",
+      "country": "Italy"
+    }
+  },
+  {
+    "year": 1952,
+    "winter": false,
+    "bidders": [
+      {
+        "city": "Helsinki",
+        "country": "Finland"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "United States"
+      },
+      {
+        "city": "Minneapolis",
+        "country": "United States"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "Netherlands"
+      },
+      {
+        "city": "Detroit",
+        "country": "United States"
+      },
+      {
+        "city": "Chicago",
+        "country": "United States"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "United States"
+      },
+      {
+        "city": "Athens",
+        "country": "Greece"
+      },
+      {
+        "city": "Lausanne",
+        "country": "Switzerland"
+      },
+      {
+        "city": "Stockholm",
+        "country": "Sweden"
+      }
+    ],
+    "host": {
+      "city": "Helsinki",
+      "country": "Finland"
+    }
+  },
+  {
+    "year": 1952,
+    "winter": true,
+    "bidders": [
+      {
+        "city": "Oslo",
+        "country": "Norway"
+      },
+      {
+        "city": "Cortina d’Ampezzo",
+        "country": "Italy"
+      },
+      {
+        "city": "Lake Placid",
+        "country": "United States"
+      }
+    ],
+    "host": {
+      "city": "Oslo",
+      "country": "Norway"
+    }
+  }
+]

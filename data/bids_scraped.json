@@ -1,0 +1,386 @@
+[
+  {
+    "bidders": [
+      "Beijing, China",
+      "Almaty, Kazakhstan",
+      "Oslo, Norway (Withdrawn)",
+      "Krakow, Poland (Withdrawn)",
+      "Lviv, Ukraine (Withdrawn)",
+      "Stockholm, Sweden (Withdrawn)"
+    ],
+    "yearString": "2022, Winter"
+  },
+  {
+    "bidders": [
+      "Tokyo, Japan",
+      "Istanbul, Turkey",
+      "Madrid, Spain",
+      "Baku, Azerbaijan",
+      "Doha, Qatar",
+      "Rome, Italy (Withdrawn)"
+    ],
+    "yearString": "2020, Summer"
+  },
+  {
+    "bidders": [
+      "PyeongChang, South Korea",
+      "Munich, Germany",
+      "Annecy, France"
+    ],
+    "yearString": "2018, Winter"
+  },
+  {
+    "bidders": [
+      "Rio de Janeiro, Brazil",
+      "Madrid, Spain",
+      "Tokyo, Japan",
+      "Chicago, USA",
+      "Baku, Azerbaijan",
+      "Doha, Qatar",
+      "Prague, Czech Republic"
+    ],
+    "yearString": "2016, Summer"
+  },
+  {
+    "bidders": [
+      "Sochi, Russia",
+      "PyeongChang, South Korea",
+      "Salzburg, Austria",
+      "Almaty, Kazakhstan",
+      "Borjomi, Georgia",
+      "Jaca, Spain",
+      "Sofia, Bulgaria"
+    ],
+    "yearString": "2014, Winter"
+  },
+  {
+    "bidders": [
+      "London, United Kingdom",
+      "Paris, France",
+      "Madrid, Spain",
+      "New York, USA",
+      "Moscow, Russia",
+      "Leipzig, Germany",
+      "Rio de Janeiro, Brazil",
+      "Istanbul, Turkey",
+      "Havana, Cuba"
+    ],
+    "yearString": "2012, Summer"
+  },
+  {
+    "bidders": [
+      "Vancouver, Canada",
+      "PyeongChang, South Korea",
+      "Salzburg, Austria",
+      "Andorra la Vella, Andorra",
+      "Berne, Switzerland",
+      "Harbin, China",
+      "Jaca, Spain",
+      "Sarajevo, Bosnia-Herzegovina"
+    ],
+    "yearString": "2010, Winter"
+  },
+  {
+    "bidders": [
+      "Beijing, China",
+      "Toronto, Canada",
+      "Paris, France",
+      "Istanbul, Turkey",
+      "Osaka, Japan",
+      "Bangkok, Thailand",
+      "Cairo, Egypt",
+      "Havana, Cuba",
+      "Kuala Lumpur, Malaysia",
+      "Seville, Spain"
+    ],
+    "yearString": "2008"
+  },
+  {
+    "bidders": [
+      "Turin, Italy",
+      "Sion, Switzerland",
+      "Helsinki, Finand",
+      "Klagenfurt, Austria",
+      "Poprad-Tatry, Slovakia",
+      "Zakopane, Poland"
+    ],
+    "yearString": "2006, Winter"
+  },
+  {
+    "bidders": [
+      "Athens, Greece",
+      "Rome, Italy",
+      "Cape Town, South Africa",
+      "Stockholm, Sweden",
+      "Buenos Aires, Argentina",
+      "Istanbul, Turkey",
+      "Lille, France",
+      "Rio de Janeiro, Brazil",
+      "St. Petersburg, Russia",
+      "San Juan, Puerto Rico",
+      "Seville, Spain"
+    ],
+    "yearString": "2004"
+  },
+  {
+    "bidders": [
+      "Salt Lake City, USA",
+      "Ostersund, Sweden",
+      "Sion, Switzerland",
+      "Quebec City, Canada",
+      "Graz, Austria",
+      "Jaca, Spain",
+      "Poprad-Tatry, Slovakia",
+      "Sochi, Russia",
+      "Tarvisio, Italy"
+    ],
+    "yearString": "2002, Winter"
+  },
+  {
+    "bidders": [
+      "Sydney, Australia",
+      "Beijing, China",
+      "Manchester, United Kingdom",
+      "Berlin, Germany",
+      "Istanbul, Turkey"
+    ],
+    "yearString": "2000"
+  },
+  {
+    "bidders": [
+      "Nagano, Japan",
+      "Salt Lake City, USA",
+      "Ostersund, Sweden",
+      "Jaca, Spain",
+      "Aosta, Italy"
+    ],
+    "yearString": "1998, Winter"
+  },
+  {
+    "bidders": [
+      "Atlanta, USA",
+      "Athens, Greece",
+      "Toronto, Canada",
+      "Melbourne, Australia",
+      "Manchester, United Kingdom",
+      "Belgrade, Yugoslavia"
+    ],
+    "yearString": "1996"
+  },
+  {
+    "bidders": [
+      "Lillehammer, Norway",
+      "Ostersund, Sweden",
+      "Anchorage, USA",
+      "Sofia, Bulgaria"
+    ],
+    "yearString": "1994, Winter"
+  },
+  {
+    "bidders": [
+      "Barcelona, Spain",
+      "Paris, France",
+      "Belgrade, Yugoslavia",
+      "Brisbane, Australia",
+      "Birmingham, United Kingdom",
+      "Amsterdam, Netherlands"
+    ],
+    "yearString": "1992"
+  },
+  {
+    "bidders": [
+      "Albertville, France",
+      "Sofia, Bulgaria",
+      "Falun, Sweden",
+      "Lillehammer, Norway",
+      "Cortina d\u2019Ampezzo, Italy",
+      "Anchorage, USA",
+      "Berchtesgaden, West Germany"
+    ],
+    "yearString": "1992, Winter"
+  },
+  {
+    "bidders": [
+      "Seoul, South Korea",
+      "Nagoya, Japan"
+    ],
+    "yearString": "1988"
+  },
+  {
+    "bidders": [
+      "Calgary, Canada",
+      "Falun, Sweden",
+      "Cortina d\u2019Ampezzo, Italy"
+    ],
+    "yearString": "1988, Winter"
+  },
+  {
+    "bidders": [
+      "Los Angeles, USA",
+      ""
+    ],
+    "yearString": "1984"
+  },
+  {
+    "bidders": [
+      "Sarajevo, Yugoslavia",
+      "Sapporo, Japan",
+      "Gothenburg, Sweden"
+    ],
+    "yearString": "1984, Winter"
+  },
+  {
+    "bidders": [
+      "Moscow, USSR",
+      "Los Angeles, USA"
+    ],
+    "yearString": "1980"
+  },
+  {
+    "bidders": [
+      "Lake Placid, USA"
+    ],
+    "yearString": "1980, Winter"
+  },
+  {
+    "bidders": [
+      "Montreal, Canada",
+      "Moscow, USSR",
+      "Los Angeles, USA"
+    ],
+    "yearString": "1976"
+  },
+  {
+    "bidders": [
+      "Denver, USA (Innsbruck Hosted)",
+      "Sion, Switzerland",
+      "Tampere, Finland",
+      "Vancouver-Garibaldi, Canada"
+    ],
+    "yearString": "1976, Winter"
+  },
+  {
+    "bidders": [
+      "Munich, Germany",
+      "Detroit, USA",
+      "Madrid, Spain",
+      "Montreal, Canada"
+    ],
+    "yearString": "1972"
+  },
+  {
+    "bidders": [
+      "Sapporo, Japan",
+      "Banff, Canada",
+      "Lahti, Finland",
+      "Salt Lake City, USA"
+    ],
+    "yearString": "1972, Winter"
+  },
+  {
+    "bidders": [
+      "Grenoble, France",
+      "Calgary, Canada",
+      "Lahti, Finland",
+      "Sapporo, Japan",
+      "Oslo, Norway",
+      "Lake Placid, USA"
+    ],
+    "yearString": "1968, Winter"
+  },
+  {
+    "bidders": [
+      "Mexico City, Mexico",
+      "Detroit, USA",
+      "Lyon, France",
+      "Buenos Aires, Argentina"
+    ],
+    "yearString": "1968"
+  },
+  {
+    "bidders": [
+      "Tokyo, Japan",
+      "Detroit, USA",
+      "Vienna, Austria",
+      "Brussels, Belgium"
+    ],
+    "yearString": "1964"
+  },
+  {
+    "bidders": [
+      "Innsbruck, Austria",
+      "Calgary, Canada",
+      "Lahti, Finland"
+    ],
+    "yearString": "1964, Winter"
+  },
+  {
+    "bidders": [
+      "Rome, Italy",
+      "Lausanne, Switzerland",
+      "Brussels, Belgium",
+      "Budapest, Hungary",
+      "Detroit, USA",
+      "Mexico City, Mexico",
+      "Tokyo, Japan"
+    ],
+    "yearString": "1960"
+  },
+  {
+    "bidders": [
+      "Squaw Valley, USA",
+      "Innsbruck, Austria",
+      "St. Moritz, Switzerland",
+      "Garmisch-Partenkirchen, Germany",
+      "Karachi, Pakistan"
+    ],
+    "yearString": "1960, Winter"
+  },
+  {
+    "bidders": [
+      "Melbourne, Australia",
+      "Buenos Aires, Argentina",
+      "Mexico City, Mexico",
+      "Chicago, USA",
+      "Detroit, USA",
+      "Los Angeles, USA",
+      "Minneapolis, USA",
+      "Philadelphia, USA",
+      "San Francisco, USA",
+      "Montreal, CAN"
+    ],
+    "yearString": "1956"
+  },
+  {
+    "bidders": [
+      "Cortina d\u2019Ampezzo, Italy",
+      "Colorado Springs, USA",
+      "Lake Placid, USA",
+      "Montreal, Canada"
+    ],
+    "yearString": "1956, Winter"
+  },
+  {
+    "bidders": [
+      "Helsinki, Finland",
+      "Los Angeles, USA",
+      "Minneapolis, USA",
+      "Amsterdam, Netherlands",
+      "Detroit, USA",
+      "Chicago, USA",
+      "Philadelphia, USA",
+      "Athens, Greece",
+      "Lausanne, Switzerland",
+      "Stockholm, Sweden"
+    ],
+    "yearString": "1952"
+  },
+  {
+    "bidders": [
+      "Oslo, Norway",
+      "Cortina d\u2019Ampezzo, Italy",
+      "Lake Placid, USA"
+    ],
+    "yearString": "1952, Winter"
+  }
+]

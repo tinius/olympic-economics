@@ -1,0 +1,459 @@
+[
+  {
+    "host": "Beijing, China",
+    "candidates": [
+      "Beijing, China",
+      "Almaty, Kazakhstan",
+      "Oslo, Norway (Withdrawn)",
+      "Krakow, Poland (Withdrawn)",
+      "Lviv, Ukraine (Withdrawn)",
+      "Stockholm, Sweden (Withdrawn)"
+    ],
+    "winter": true,
+    "year": "2022, Winter"
+  },
+  {
+    "host": "Tokyo, Japan",
+    "candidates": [
+      "Tokyo, Japan",
+      "Istanbul, Turkey",
+      "Madrid, Spain",
+      "Baku, Azerbaijan",
+      "Doha, Qatar",
+      "Rome, Italy (Withdrawn)"
+    ],
+    "winter": false,
+    "year": "2020, Summer"
+  },
+  {
+    "host": "PyeongChang, South Korea",
+    "candidates": [
+      "PyeongChang, South Korea",
+      "Munich, Germany",
+      "Annecy, France"
+    ],
+    "winter": true,
+    "year": "2018, Winter"
+  },
+  {
+    "host": "Rio de Janeiro, Brazil",
+    "candidates": [
+      "Rio de Janeiro, Brazil",
+      "Madrid, Spain",
+      "Tokyo, Japan",
+      "Chicago, USA",
+      "Baku, Azerbaijan",
+      "Doha, Qatar",
+      "Prague, Czech Republic"
+    ],
+    "winter": false,
+    "year": "2016, Summer"
+  },
+  {
+    "host": "Sochi, Russia",
+    "candidates": [
+      "Sochi, Russia",
+      "PyeongChang, South Korea",
+      "Salzburg, Austria",
+      "Almaty, Kazakhstan",
+      "Borjomi, Georgia",
+      "Jaca, Spain",
+      "Sofia, Bulgaria"
+    ],
+    "winter": true,
+    "year": "2014, Winter"
+  },
+  {
+    "host": "London, United Kingdom",
+    "candidates": [
+      "London, United Kingdom",
+      "Paris, France",
+      "Madrid, Spain",
+      "New York, USA",
+      "Moscow, Russia",
+      "Leipzig, Germany",
+      "Rio de Janeiro, Brazil",
+      "Istanbul, Turkey",
+      "Havana, Cuba"
+    ],
+    "winter": false,
+    "year": "2012, Summer"
+  },
+  {
+    "host": "Vancouver, Canada",
+    "candidates": [
+      "Vancouver, Canada",
+      "PyeongChang, South Korea",
+      "Salzburg, Austria",
+      "Andorra la Vella, Andorra",
+      "Berne, Switzerland",
+      "Harbin, China",
+      "Jaca, Spain",
+      "Sarajevo, Bosnia-Herzegovina"
+    ],
+    "winter": true,
+    "year": "2010, Winter"
+  },
+  {
+    "host": "Beijing, China",
+    "candidates": [
+      "Beijing, China",
+      "Toronto, Canada",
+      "Paris, France",
+      "Istanbul, Turkey",
+      "Osaka, Japan",
+      "Bangkok, Thailand",
+      "Cairo, Egypt",
+      "Havana, Cuba",
+      "Kuala Lumpur, Malaysia",
+      "Seville, Spain"
+    ],
+    "winter": false,
+    "year": "2008"
+  },
+  {
+    "host": "Turin, Italy",
+    "candidates": [
+      "Turin, Italy",
+      "Sion, Switzerland",
+      "Helsinki, Finland",
+      "Klagenfurt, Austria",
+      "Poprad-Tatry, Slovakia",
+      "Zakopane, Poland"
+    ],
+    "winter": true,
+    "year": "2006, Winter"
+  },
+  {
+    "host": "Athens, Greece",
+    "candidates": [
+      "Athens, Greece",
+      "Rome, Italy",
+      "Cape Town, South Africa",
+      "Stockholm, Sweden",
+      "Buenos Aires, Argentina",
+      "Istanbul, Turkey",
+      "Lille, France",
+      "Rio de Janeiro, Brazil",
+      "St. Petersburg, Russia",
+      "San Juan, Puerto Rico",
+      "Seville, Spain"
+    ],
+    "winter": false,
+    "year": "2004"
+  },
+  {
+    "host": "Salt Lake City, USA",
+    "candidates": [
+      "Salt Lake City, USA",
+      "Ostersund, Sweden",
+      "Sion, Switzerland",
+      "Quebec City, Canada",
+      "Graz, Austria",
+      "Jaca, Spain",
+      "Poprad-Tatry, Slovakia",
+      "Sochi, Russia",
+      "Tarvisio, Italy"
+    ],
+    "winter": true,
+    "year": "2002, Winter"
+  },
+  {
+    "host": "Sydney, Australia",
+    "candidates": [
+      "Sydney, Australia",
+      "Beijing, China",
+      "Manchester, United Kingdom",
+      "Berlin, Germany",
+      "Istanbul, Turkey"
+    ],
+    "winter": false,
+    "year": "2000"
+  },
+  {
+    "host": "Nagano, Japan",
+    "candidates": [
+      "Nagano, Japan",
+      "Salt Lake City, USA",
+      "Ostersund, Sweden",
+      "Jaca, Spain",
+      "Aosta, Italy"
+    ],
+    "winter": true,
+    "year": "1998, Winter"
+  },
+  {
+    "host": "Atlanta, USA",
+    "candidates": [
+      "Atlanta, USA",
+      "Athens, Greece",
+      "Toronto, Canada",
+      "Melbourne, Australia",
+      "Manchester, United Kingdom",
+      "Belgrade, Yugoslavia"
+    ],
+    "winter": false,
+    "year": "1996"
+  },
+  {
+    "host": "Lillehammer, Norway",
+    "candidates": [
+      "Lillehammer, Norway",
+      "Ostersund, Sweden",
+      "Anchorage, USA",
+      "Sofia, Bulgaria"
+    ],
+    "winter": true,
+    "year": "1994, Winter"
+  },
+  {
+    "host": "Barcelona, Spain",
+    "candidates": [
+      "Barcelona, Spain",
+      "Paris, France",
+      "Belgrade, Yugoslavia",
+      "Brisbane, Australia",
+      "Birmingham, United Kingdom",
+      "Amsterdam, Netherlands"
+    ],
+    "winter": false,
+    "year": "1992"
+  },
+  {
+    "host": "Albertville, France",
+    "candidates": [
+      "Albertville, France",
+      "Sofia, Bulgaria",
+      "Falun, Sweden",
+      "Lillehammer, Norway",
+      "Cortina d\u2019Ampezzo, Italy",
+      "Anchorage, USA",
+      "Berchtesgaden, West Germany"
+    ],
+    "winter": true,
+    "year": "1992, Winter"
+  },
+  {
+    "host": "Seoul, South Korea",
+    "candidates": [
+      "Seoul, South Korea",
+      "Nagoya, Japan"
+    ],
+    "winter": false,
+    "year": "1988"
+  },
+  {
+    "host": "Calgary, Canada",
+    "candidates": [
+      "Calgary, Canada",
+      "Falun, Sweden",
+      "Cortina d\u2019Ampezzo, Italy"
+    ],
+    "winter": true,
+    "year": "1988, Winter"
+  },
+  {
+    "host": "Los Angeles, USA",
+    "candidates": [
+      "Los Angeles, USA"
+    ],
+    "winter": false,
+    "year": "1984"
+  },
+  {
+    "host": "Sarajevo, Yugoslavia",
+    "candidates": [
+      "Sarajevo, Yugoslavia",
+      "Sapporo, Japan",
+      "Gothenburg, Sweden"
+    ],
+    "winter": true,
+    "year": "1984, Winter"
+  },
+  {
+    "host": "Moscow, USSR",
+    "candidates": [
+      "Moscow, USSR",
+      "Los Angeles, USA"
+    ],
+    "winter": false,
+    "year": "1980"
+  },
+  {
+    "host": "Lake Placid, USA",
+    "candidates": [
+      "Lake Placid, USA"
+    ],
+    "winter": true,
+    "year": "1980, Winter"
+  },
+  {
+    "host": "Montreal, Canada",
+    "candidates": [
+      "Montreal, Canada",
+      "Moscow, USSR",
+      "Los Angeles, USA"
+    ],
+    "winter": false,
+    "year": "1976"
+  },
+  {
+    "host": "Denver, USA (Innsbruck Hosted)",
+    "candidates": [
+      "Denver, USA (Innsbruck Hosted)",
+      "Sion, Switzerland",
+      "Tampere, Finland",
+      "Vancouver-Garibaldi, Canada"
+    ],
+    "winter": true,
+    "year": "1976, Winter"
+  },
+  {
+    "host": "Munich, Germany",
+    "candidates": [
+      "Munich, Germany",
+      "Detroit, USA",
+      "Madrid, Spain",
+      "Montreal, Canada"
+    ],
+    "winter": false,
+    "year": "1972"
+  },
+  {
+    "host": "Sapporo, Japan",
+    "candidates": [
+      "Sapporo, Japan",
+      "Banff, Canada",
+      "Lahti, Finland",
+      "Salt Lake City, USA"
+    ],
+    "winter": true,
+    "year": "1972, Winter"
+  },
+  {
+    "host": "Grenoble, France",
+    "candidates": [
+      "Grenoble, France",
+      "Calgary, Canada",
+      "Lahti, Finland",
+      "Sapporo, Japan",
+      "Oslo, Norway",
+      "Lake Placid, USA"
+    ],
+    "winter": true,
+    "year": "1968, Winter"
+  },
+  {
+    "host": "Mexico City, Mexico",
+    "candidates": [
+      "Mexico City, Mexico",
+      "Detroit, USA",
+      "Lyon, France",
+      "Buenos Aires, Argentina"
+    ],
+    "winter": false,
+    "year": "1968"
+  },
+  {
+    "host": "Tokyo, Japan",
+    "candidates": [
+      "Tokyo, Japan",
+      "Detroit, USA",
+      "Vienna, Austria",
+      "Brussels, Belgium"
+    ],
+    "winter": false,
+    "year": "1964"
+  },
+  {
+    "host": "Innsbruck, Austria",
+    "candidates": [
+      "Innsbruck, Austria",
+      "Calgary, Canada",
+      "Lahti, Finland"
+    ],
+    "winter": true,
+    "year": "1964, Winter"
+  },
+  {
+    "host": "Rome, Italy",
+    "candidates": [
+      "Rome, Italy",
+      "Lausanne, Switzerland",
+      "Brussels, Belgium",
+      "Budapest, Hungary",
+      "Detroit, USA",
+      "Mexico City, Mexico",
+      "Tokyo, Japan"
+    ],
+    "winter": false,
+    "year": "1960"
+  },
+  {
+    "host": "Squaw Valley, USA",
+    "candidates": [
+      "Squaw Valley, USA",
+      "Innsbruck, Austria",
+      "St. Moritz, Switzerland",
+      "Garmisch-Partenkirchen, Germany",
+      "Karachi, Pakistan"
+    ],
+    "winter": true,
+    "year": "1960, Winter"
+  },
+  {
+    "host": "Melbourne, Australia",
+    "candidates": [
+      "Melbourne, Australia",
+      "Buenos Aires, Argentina",
+      "Mexico City, Mexico",
+      "Chicago, USA",
+      "Detroit, USA",
+      "Los Angeles, USA",
+      "Minneapolis, USA",
+      "Philadelphia, USA",
+      "San Francisco, USA",
+      "Montreal, CAN"
+    ],
+    "winter": false,
+    "year": "1956"
+  },
+  {
+    "host": "Cortina d\u2019Ampezzo, Italy",
+    "candidates": [
+      "Cortina d\u2019Ampezzo, Italy",
+      "Colorado Springs, USA",
+      "Lake Placid, USA",
+      "Montreal, Canada"
+    ],
+    "winter": true,
+    "year": "1956, Winter"
+  },
+  {
+    "host": "Helsinki, Finland",
+    "candidates": [
+      "Helsinki, Finland",
+      "Los Angeles, USA",
+      "Minneapolis, USA",
+      "Amsterdam, Netherlands",
+      "Detroit, USA",
+      "Chicago, USA",
+      "Philadelphia, USA",
+      "Athens, Greece",
+      "Lausanne, Switzerland",
+      "Stockholm, Sweden"
+    ],
+    "winter": false,
+    "year": "1952"
+  },
+  {
+    "host": "Oslo, Norway",
+    "candidates": [
+      "Oslo, Norway",
+      "Cortina d\u2019Ampezzo, Italy",
+      "Lake Placid, USA"
+    ],
+    "winter": true,
+    "year": "1952, Winter"
+  }
+]
