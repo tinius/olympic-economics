@@ -1,0 +1,241 @@
+/* variables */
+/* shared styles */
+body {
+  font-family: 'Crimson Text', serif; }
+
+p {
+  font-size: 22px;
+  text-align: justify; }
+
+.intro:first-letter {
+  font-size: 60px;
+  line-height: 40px;
+  margin: 8px 6px 0 0;
+  float: left; }
+
+h2 {
+  font-family: 'Crimson Text', serif;
+  font-size: 26px; }
+
+.header {
+  font-size: 44px;
+  text-align: center;
+  margin-top: 32px;
+  margin-bottom: 32px; }
+
+#container {
+  width: 96%;
+  max-width: 720px;
+  margin: auto; }
+
+.interactive {
+  font-family: 'Lato', sans-serif;
+  width: 95%;
+  max-width: 640px;
+  margin: auto; }
+
+.legend {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  margin: -1px 4px; }
+  .legend.legend-summer {
+    background-color: #ffaa00; }
+  .legend.legend-winter {
+    background-color: #4080bf; }
+
+svg {
+  margin: 24px 0;
+  width: 100%;
+  font-size: 12px;
+  font-family: inherit; }
+  svg#sports-cost {
+    height: 680px; }
+  svg#us-travel {
+    height: 380px; }
+  svg#hdi {
+    height: 410px; }
+
+.interactive-header {
+  margin-bottom: 4px; }
+
+.interactive-sub {
+  margin-top: 4px;
+  margin-bottom: 16px;
+  font-size: 14px;
+  font-style: italic; }
+
+.interactive-checkbox {
+  margin-bottom: 1px; }
+
+.interactive-input {
+  font-size: 14px; }
+
+/* Sports cost interactive */
+.cost-axis {
+  stroke: url("/#gradient");
+  stroke-width: 1; }
+
+.cost-axis-label {
+  font-style: italic;
+  text-anchor: middle; }
+
+.cost-bar.winter {
+  fill: #4080bf; }
+.cost-bar.summer {
+  fill: #ffaa00; }
+
+.bar-label {
+  stroke: white;
+  stroke-width: 4;
+  stroke-opacity: 0.6;
+  paint-order: stroke; }
+  .bar-label.inside-bar {
+    fill: white;
+    stroke: none;
+    text-anchor: end; }
+
+/* US travel interactive */
+.us-small-multiple {
+  display: inline-block; }
+
+.us-line {
+  fill: none;
+  stroke: #acacac;
+  stroke-opacity: 0.2;
+  stroke-width: 3; }
+  .us-line.us-line-olympic {
+    stroke-opacity: 0.3;
+    stroke: #4080bf; }
+  .us-line.us-line-total {
+    stroke-opacity: 0.8; }
+  .us-line.us-line-hl {
+    stroke-opacity: 1; }
+
+.us-y-line {
+  fill: none;
+  stroke: #bdbdbd;
+  stroke-dasharray: 1,1; }
+
+.olympics-line {
+  stroke: #4080bf;
+  fill: none; }
+
+.crisis-line {
+  stroke: #f77;
+  stroke-dasharray: 2,2;
+  fill: none; }
+
+.olympics-hint {
+  fill: #4080bf;
+  font-weight: bold; }
+
+.basic-axis {
+  fill: none;
+  stroke-width: 1;
+  stroke: #bdbdbd; }
+
+.basic-label {
+  font-style: italic;
+  pointer-events: none; }
+  .basic-label.basic-label-x {
+    text-anchor: middle; }
+
+.us-state-label {
+  font-size: 12;
+  font-weight: bold;
+  pointer-events: none;
+  text-anchor: middle;
+  fill: #777; }
+  .us-state-label.us-state-label-utah {
+    fill: #4080bf; }
+
+/* HDI interactive */
+.legend-circle {
+  display: inline-block;
+  margin: -2px 3px;
+  height: 11px;
+  width: 11px;
+  border-radius: 5.5px;
+  opacity: 0.15; }
+  .legend-circle.legend-circle-winter {
+    background-color: #4080bf; }
+  .legend-circle.legend-circle-summer {
+    background-color: #ffaa00; }
+  .legend-circle.legend-circle-host {
+    opacity: 0.8; }
+
+.bid-hdi-point {
+  fill-opacity: 0.15;
+  stroke-width: 0;
+  fill: #4080bf;
+  stroke: #4080bf; }
+  .bid-hdi-point.bid-summer {
+    fill: #ffaa00;
+    stroke: #ffaa00; }
+  .bid-hdi-point.bid-selected {
+    fill-opacity: 0.8; }
+  .bid-hdi-point.hdi-hl {
+    stroke-width: 2; }
+
+.bid-label {
+  text-anchor: middle;
+  pointer-events: none; }
+  .bid-label.bid-label-right {
+    text-anchor: end; }
+  .bid-label.bid-label-left {
+    text-anchor: start; }
+
+.is-hidden {
+  display: none; }
+
+.bid-year-label {
+  text-anchor: middle;
+  font-style: italic; }
+  .bid-year-label.bid-y-label {
+    text-anchor: end; }
+
+.bid-help-label {
+  text-anchor: start;
+  font-style: italic; }
+
+.bid-center-label {
+  text-anchor: middle;
+  font-style: italic; }
+
+.hdi-axis {
+  stroke: #999;
+  stroke-width: 1;
+  fill: none; }
+
+.bid-ticks {
+  stroke: #999;
+  fill: none; }
+
+.hdi-line {
+  stroke: #ffaa00;
+  stroke-width: 2;
+  fill: none; }
+  .hdi-line.line-winter {
+    stroke: #4080bf; }
+
+.to-back {
+  opacity: 0.2; }
+
+.voronoi {
+  fill-opacity: 0;
+  stroke: none; }
+
+/* mobile styles */
+@media (max-width: 360px) {
+  .header {
+    font-size: 32px; }
+
+  p {
+    font-size: 18px; }
+
+  .hide-on-mobile {
+    display: none; } }
+
+/*# sourceMappingURL=main.css.map */
