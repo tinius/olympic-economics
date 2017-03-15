@@ -74,7 +74,7 @@ svg {
 
 /* Sports cost interactive */
 .cost-axis {
-  stroke: url("/#gradient");
+  stroke: url("#gradient");
   stroke-width: 1; }
 
 .cost-axis-label {
